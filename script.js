@@ -1,3 +1,4 @@
+//This ia a Javascript file
 let boxes = document.querySelectorAll(".box")
 let reset_btn = document.querySelector(".reset-btn")
 let new_btn = document.querySelector(".new-btn")
